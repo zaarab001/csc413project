@@ -16,4 +16,4 @@ The following are the list of members in Team 11 with their areas of specilizati
 
 https://github.com/zaarab001/csc413project
 
-This is a proposed static website, so therefore the project will be hosted on github page.
+This is a proposed dynamic website, therefore the project can not be hosted on github page.
